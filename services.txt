@@ -1,0 +1,6 @@
+2,Manicure,20.0,120,Manicure is a hand care treatment that cleans shapes and beautifies your nails while keeping your hands soft and smooth,Nails
+3,Pedicure,30.0,120,Pedicure is a relaxing foot care treatment that cleans shapes and smooths your toenails removes dead skin softens rough heels and leaves your feet feeling fresh and rejuvenated,Nails
+4,Layer Cut,50.0,120,Layer cut is a popular hairstyle that adds dimension volume and movement by cutting the hair into multiple lengths it enhances natural texture frames the face beautifully and suits all hair types for a fresh and modern look,Hair
+5,Full Body Massage,30.0,120,Body massage in our salon is a relaxing therapy that relieves stress reduces muscle tension and improves blood circulation using gentle or deep pressure it helps you unwind refresh your body and restore inner balance,Massage
+6,Glow Makeup,40.0,120,Glow makeup enhances your natural beauty by giving your skin a radiant dewy finish it focuses on a luminous base with soft highlights light coverage and a fresh healthy look perfect for any occasion,Makeup
+1,Golden Facial,549.9,120,Indulge in luxury with our Golden Facial designed to brighten firm and rejuvenate your skin. Infused with 24K gold extracts this treatment boosts blood circulation reduces fine lines and leaves your skin glowing with a radiant youthful shine,Facial

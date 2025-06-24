@@ -1,0 +1,7 @@
+1,1,test1,2,Manicure,2025-05-13,08:00,COMPLETED,20.0,no
+3,6,test5,3,Pedicure,2025-05-16,08:00,CONFIRMED,30.0,no
+5,1,admin,4,Layer Cut,2025-05-16,10:00,PENDING,50.0,no
+2,1,test1,2,Manicure,2025-05-16,10:00,COMPLETED,20.0,no
+4,1,admin,2,Manicure,2025-05-17,16:00,PENDING,20.0,no
+7,1,test1,6,Glow Makeup,2025-05-21,12:00,PENDING,40.0,no
+8,6,anees,3,Pedicure,2025-06-26,10:00,PENDING,30.0,no
